@@ -8,6 +8,8 @@
 
 使用方式：
  
+ 載入 libraries
+ 
  `$this->load->library('fn_bcrypt');`
  
  加密
