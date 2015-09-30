@@ -1,4 +1,4 @@
-## codeIgniter_bcrypt_simple
+##codeIgniter_bcrypt_simple
 
 作 者： Alex Chen
 
@@ -8,17 +8,17 @@
 
 使用方式：
  
-載入 libraries
+* 載入 libraries
  
  `$this->load->library('fn_bcrypt');`
  
- 加密
+* 加密
  
  `$post_pwd = $_POST['pwd'];`
  
  `$this->fn_bcrypt->bcrypt($post_pwd);`
 
- 驗證
+* 驗證
  
  `$pwd = 'xxxxoooo';  // 已存在資料表之密碼`
 
