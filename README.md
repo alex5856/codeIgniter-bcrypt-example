@@ -26,6 +26,6 @@
 
 參考資料：
 
-http://php.net/manual/en/function.password-hash.php
-
-http://php.net/manual/en/function.password-verify.php
+*  http://php.net/manual/en/function.password-hash.php
+*  http://php.net/manual/en/function.password-verify.php
+*  https://zh.wikipedia.org/wiki/Bcrypt
