@@ -1,4 +1,4 @@
-#CodeIgniter bcrypt simple
+## CodeIgniter bcrypt simple
 
 作 者： Alex Chen
 
