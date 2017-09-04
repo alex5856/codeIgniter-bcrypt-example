@@ -1,12 +1,10 @@
 ## CodeIgniter bcrypt example
 
-作 者： Alex Chen
-
 說 明：此bcrypt 範例使用在 php codeIgniter 架構，以提供加密與驗證之用
 
 需 求：php 5.5
 
-使用方式：
+### 使用方式：
  
 * 載入 libraries
  
@@ -24,7 +22,7 @@
 
  `$this->fn_bcrypt->bcrypt_verify($post_pwd, $pwd);`
 
-參考資料：
+### 參考資料：
 
 *  http://php.net/manual/en/function.password-hash.php
 *  http://php.net/manual/en/function.password-verify.php
